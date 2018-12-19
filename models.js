@@ -95,3 +95,4 @@ module.exports = {
   ShoppingList: createShoppingList(),
   Recipes: createRecipes()
 }
+
